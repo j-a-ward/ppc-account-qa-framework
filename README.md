@@ -24,7 +24,7 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
 ## 4. Ad Scheduling
 - Align ads with business hours and lead capacity.
 - Evaluate time-of-day performance.
-- Reduce spend during low-conversion windows.
+- Reduce spend during low conversion windows.
 
 ## 5. Match Type Strategy
 - Use controlled match types at launch.
@@ -34,11 +34,11 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
 ## 6. Search Term Review
 - Analyze actual queries weekly.
 - Identify intent drift.
-- Promote high-performing terms to exact match.
+- Promote high performing terms to exact match.
 
 ## 7. Negative Keyword Management
-- Exclude low-intent modifiers (free, jobs, how to).
-- Use cross-ad group negatives to prevent overlap.
+- Exclude low intent modifiers (free, jobs, how to).
+- Use cross ad group negatives to prevent overlap.
 - Treat negatives as an ongoing optimization lever.
 
 ## 8. Automation Control
@@ -71,7 +71,7 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
 
 ## 13. Remarketing Layer
 - Deploy after validating Search performance.
-- Re-engage high-intent visitors.
+- Re-engage high intent visitors.
 - Improve overall conversion efficiency.
 
 ## 14. Ad Extensions
