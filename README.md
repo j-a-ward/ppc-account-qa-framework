@@ -1,5 +1,7 @@
 # PPC Account QA Framework  
-## Use Study Link: [Sample Google Ads Account Structure](https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing)
+
+## Use Case Link: [Sample Google Ads Account Structure](https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing)
+
 
 With a background in Quality Assurance, I approach PPC accounts as performance systems that must be validated before scaling. This approach illustrates how I structure, evaluate, and optimize Google Ads Search campaigns through controlled deployment, measurable validation, and iterative refinement. Rather than relying on automation at launch, I prioritize data integrity, structural discipline, and scalable optimization pathways to ensure efficient and responsible performance growth.
 
