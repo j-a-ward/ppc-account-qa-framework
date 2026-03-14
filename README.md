@@ -8,7 +8,7 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
 ---
 
 ## 1. Campaign Type
-- Prioritize Search campaigns for high-intent demand.
+- Prioritize Search campaigns for high intent demand.
 - Avoid premature expansion into Display, Video, or Performance Max.
 
 ## 2. Network Settings
