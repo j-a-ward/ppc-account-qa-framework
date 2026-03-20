@@ -31,7 +31,7 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
 - Avoid unrestricted broad targeting.
 - Expand based on validated search term data.
 
-## 6. Search Term Review
+## 6. Search Term Analysis
 - Analyze actual queries weekly.
 - Identify intent drift.
 - Promote high performing terms to exact match.
