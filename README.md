@@ -87,6 +87,10 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
 
 The goal is structured, testable, scalable performance growth.
 
+---
+
+## Use Case: Google Ads Account Structure Workbook
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -96,10 +100,9 @@ The goal is structured, testable, scalable performance growth.
              style="width:100%; height:340px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Use Case: Google Ads Account Structure Workbook</b><br/>
       <sub>Built a Google Ads Search campaign structure for a local service business.</sub><br/>
       <b></b><br/>
-        <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
+      <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
           <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
       <br/>
