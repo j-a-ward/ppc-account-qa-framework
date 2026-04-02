@@ -1,11 +1,5 @@
 # PPC Account QA Framework  
 
-**Use Case: Google Ads Account Structure Workbook** 
-
-[![View Workbook](https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white)](https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing)
-
----
-
 With a background in Quality Assurance, I approach PPC accounts as performance systems that must be validated before scaling. This framework illustrates how I structure, evaluate, and optimize Google Ads Search campaigns through controlled deployment, measurable validation, and iterative refinement. Rather than relying on automation at launch, I prioritize data integrity, structural discipline, and scalable optimization pathways to ensure efficient and responsible performance growth.
 
 ---
@@ -92,3 +86,25 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
 - Scale responsibly  
 
 The goal is structured, testable, scalable performance growth.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
+        <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
+             alt="Use Case: Google Ads Account Structure Workbook"
+             style="width:100%; height:340px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Use Case: Google Ads Account Structure Workbook</b><br/>
+      <sub>Built a Google Ads Search campaign structure for a local service business.</sub><br/>
+      <b></b><br/>
+        <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
+          <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
+            alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
+      <br/>
+      <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
+   </td>
+  </tr>
+</table>
+
