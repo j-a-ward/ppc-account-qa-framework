@@ -38,6 +38,23 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
 - Use cross ad group negatives to prevent overlap.
 - Treat negatives as an ongoing optimization lever.
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
+        <img src="https://github.com/j-a-ward/j-a-ward/blob/1b276170ccd1a5a465ec407fb07d0b43ed62c30c/images/shot-2026-04-03_06-54-45.png"
+             alt="Use Case: Google Ads Account Structure Workbook"
+             style="width:100%; height:340px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
+          <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
+            alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
+      <br/>
+   </td>
+  </tr>
+</table>
+
 ## 8. Automation Control
 - Collect statistically meaningful data before smart bidding.
 - Validate CPA trends before scaling.
@@ -74,6 +91,23 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
 ## 14. Ad Extensions
 - Implement sitelinks, callouts, and structured snippets.
 - Maximize ad real estate and CTR.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
+        <img src="https://github.com/j-a-ward/j-a-ward/blob/1b276170ccd1a5a465ec407fb07d0b43ed62c30c/images/shot-2026-04-03_07-01-48.png"
+             alt="Use Case: Google Ads Account Structure Workbook"
+             style="width:100%; height:340px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
+          <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
+            alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
+      <br/>
+   </td>
+  </tr>
+</table>
 
 ---
 
