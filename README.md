@@ -48,9 +48,11 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
              style="width:100%; height:340px; object-fit:cover;"/>
       </a>
       <br/>
+      <b></b><br/>
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
           <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
+      <b></b><br/>
       <br/>
    </td>
   </tr>
@@ -103,9 +105,11 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
              style="width:100%; height:340px; object-fit:cover;"/>
       </a>
       <br/>
+      <b></b><br/>
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
           <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
+      <b></b><br/>
       <br/>
    </td>
   </tr>
@@ -137,15 +141,14 @@ The goal is structured, testable, scalable performance growth.
              style="width:100%; height:340px; object-fit:cover;"/>
       </a>
       <br/>
-      <sub>Built a Google Ads Search campaign structure for a local service business.</sub><br/>
       <b></b><br/>
-      <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
+        <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
           <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
-      <br/>
-      <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
       <b></b><br/>
-      <b>          </b><br/>
+      <b>Built a Google Ads Search campaign structure for a local service business.</b><br/>
+      <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</sub><br/>
+      <b></b><br/>
    </td>
   </tr>
 </table>
