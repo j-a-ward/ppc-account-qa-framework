@@ -144,6 +144,8 @@ The goal is structured, testable, scalable performance growth.
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
       <br/>
       <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search Ads</sub>
+      <b></b><br/>
+      <b>          </b><br/>
    </td>
   </tr>
 </table>
