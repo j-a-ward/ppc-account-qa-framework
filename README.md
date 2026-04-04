@@ -45,7 +45,7 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/6f4277cfb98e4c3e3c5b7c758e308e1bd0ca703e/images/shot-2026-04-03_06-54-45.png"
              alt="Use Case: Google Ads Account Structure Workbook"
-             style="width:100%; height:600px; object-fit:cover;"/>
+             style="width:100%; height:340px; object-fit:cover;"/>
       </a>
       <br/>
       <b></b><br/>
@@ -102,7 +102,7 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/3413ce50b35c560ec00c7ee1a75b4f4f315b099d/images/shot-2026-04-03_07-55-57.png"
              alt="Use Case: Google Ads Account Structure Workbook"
-             style="width:100%; height:500px; object-fit:cover;"/>
+             style="width:100%; height:340px; object-fit:cover;"/>
       </a>
       <br/>
       <b></b><br/>
@@ -138,7 +138,7 @@ The goal is structured, testable, scalable performance growth.
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
              alt="Use Case: Google Ads Account Structure Workbook"
-             style="width:100%; height:700px; object-fit:cover;"/>
+             style="width:100%; height:340px; object-fit:cover;"/>
       </a>
       <br/>
       <b></b><br/>
