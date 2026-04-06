@@ -49,7 +49,8 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
       <br/>
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
           <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
-            alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
+            alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/>
+      </a>
       <br/>
    </td>
   </tr>
@@ -103,7 +104,8 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
       <br/>
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
           <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
-            alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
+            alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/>
+      </a>
       <br/>
    </td>
   </tr>
@@ -136,7 +138,8 @@ The goal is structured, testable, scalable performance growth.
       <br/>
         <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
           <img src="https://img.shields.io/badge/View_Workbook-%230077B5.svg?&style=for-the-badge&logoColor=white"
-            alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/></a>
+            alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/>
+        </a>
       <br/>
       <b>Built a Google Ads Search campaign structure for a local service business.</b><br/>
       <sub>Tags: Google Ads, Keyword Planner, Search Term Report (Queries), Negative Keyword List, Bid Strategy, Responsive Search                 Ads</sub><br/>
