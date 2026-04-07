@@ -43,12 +43,12 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
     <td align="center" width="33%">
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/6f4277cfb98e4c3e3c5b7c758e308e1bd0ca703e/images/shot-2026-04-03_06-54-45.png"
-             alt="Use Case: Google Ads Account Structure Implementation"
+             alt="Google Ads Account Structure Implementation"
              style="object-fit: cover; border-radius: 8px;"/>
       </a>
       <br/>
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
-          <img src="https://img.shields.io/badge/View_Project-%230077B5.svg?&style=for-the-badge&logoColor=white"
+          <img src="https://img.shields.io/badge/View_Implementation-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/>
       </a>
       <br/>
@@ -98,12 +98,12 @@ With a background in Quality Assurance, I approach PPC accounts as performance s
     <td align="center" width="33%">
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/3413ce50b35c560ec00c7ee1a75b4f4f315b099d/images/shot-2026-04-03_07-55-57.png"
-             alt="Use Case: Google Ads Account Structure Implementation"
+             alt="Google Ads Account Structure Implementation"
              style="object-fit: cover; border-radius: 8px;"/>
       </a>
       <br/>
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
-          <img src="https://img.shields.io/badge/View_Project-%230077B5.svg?&style=for-the-badge&logoColor=white"
+          <img src="https://img.shields.io/badge/View_Implementation-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/>
       </a>
       <br/>
@@ -125,19 +125,19 @@ The goal is structured, testable, scalable performance growth.
 
 ---
 
-## Use Case: Google Ads Account Structure Implementation 
+## Google Ads Account Structure Implementation 
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
         <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
-             alt="Use Case: Google Ads Account Structure Implementation"
+             alt="Google Ads Account Structure Implementation"
              style="object-fit: cover; border-radius: 8px;"/>
       </a>
       <br/>
         <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
-          <img src="https://img.shields.io/badge/View_Project-%230077B5.svg?&style=for-the-badge&logoColor=white"
+          <img src="https://img.shields.io/badge/View_Implementation-%230077B5.svg?&style=for-the-badge&logoColor=white"
             alt="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing"/>
         </a>
       <br/>
