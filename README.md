@@ -1,6 +1,6 @@
 # PPC Account QA Framework  
 
-With a background in Quality Assurance, I approach PPC accounts as performance systems that must be validated before scaling. This framework illustrates how I structure, evaluate, and optimize Google Ads Search campaigns through controlled deployment, measurable validation, and iterative refinement. Rather than relying on automation at launch, I prioritize data integrity, structural discipline, and scalable optimization pathways to ensure efficient and responsible performance growth.
+With a background in Agile quality assurance, I approach PPC accounts as performance systems that must be validated before scaling. This framework illustrates how I structure, evaluate, and optimize Google Ads Search campaigns through controlled deployment, measurable validation, and iterative refinement. Rather than relying on automation at launch, I prioritize data integrity, structural discipline, and scalable optimization pathways to ensure efficient and responsible performance growth.
 
 ---
 
