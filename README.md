@@ -131,7 +131,7 @@ The goal is structured, testable, scalable performance growth.
   <tr>
     <td align="center" width="33%">
       <a href="https://docs.google.com/spreadsheets/d/1D3X6T__1MpP0IBGJxnuxDtCQ4VWNmuu3GSLYB3gMGtA/edit?usp=sharing">
-        <img src="https://github.com/j-a-ward/j-a-ward/blob/9ec0449618bf983577dd652a3bdde4d67a971fcf/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
+        <img src="https://github.com/j-a-ward/j-a-ward/blob/main/images/stephen-dawson-qwtCeJ5cLYs-unsplash(640).jpg?raw=true"
              alt="Google Ads Account Structure Implementation"
              style="object-fit: cover; border-radius: 8px;"/>
       </a>
